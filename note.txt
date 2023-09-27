@@ -1,0 +1,59 @@
+# colors
+	 - first-color       = #3858D6
+	 - first-color-alt   = #2948C7
+	 - first-color-light = #5670D7
+	 - second-color      = #EB7724
+	 - title-color       = #1F2F70
+	 - text-color        = #6C7493
+	 - text-color-light  = #B8BBC7
+	 - bg-1 = #383838
+	 - bg-2 = #0F0F0F
+
+# Font
+ 	- Poppins
+
+# Navigasi 
+ 	- Home | Residences | Value | Contact
+
+# Hero 
+	 - Discover <br/> Most Suitable </br> Property
+	 - Find a variety of properties that suit you very easily, forget all difficulties in finding a residence for you
+	 - 9k + | 2k + | 28k +
+	 - Premium Product | Happy Customer | Awards Winning
+ 
+# Residences
+	- Best Choice
+	- Popular Residences <span style="color: hsl(25, 83%, 53%)">.</span>
+	- <span style="color:hsl(25, 83%, 53%);">$</span>47,043 | <span style="color:hsl(25, 83%, 53%);">$</span>66,356 | <span style="color:hsl(25, 83%, 53%);">$</span>35,159
+	- Aliva Private Garden | Garden City Assat | Gables Luxurious House
+	- Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+
+ # Value 
+	- Our Value
+	- Value We Give To You<span style="color: hsl(25, 83%, 53%)">.</span>
+	- We always ready to help by providing the best service for you. We believe a good place to live can make your life better.
+	-  Best interest rates on the market | Prevent unstable prices | Best prices on the market |  Security of your data
+	- Price we provides is the best for you, we guarantee no price changes on your property due to various unexpected costs that may come. | Price we provides is the best for you, we guarantee no price changes on your property due to various unexpected costs that may come. | Price we provides is the best for you, we guarantee no price changes on your property due to various unexpected costs that may come. | Price we provides is the best for you, we guarantee no price changes on your property due to various unexpected costs that may come.
+
+# Contact
+	- Contact Us 
+	- Easy to Contact us<span style="color: hsl(25, 83%, 53%)">.</span>
+	- Is there a problem finding your dream home? Need a guide in buying first home? or need a consultation on residential issues? just contact us.
+	- Call | 022.321.165.19 | Call Now
+	- Email | noreply@gmail.com | Email Now
+	- Video Call | 022.321.165.19 | Video Call Now
+	- Message | 081273738 | Message Now
+
+
+# Get Started 
+	- Get Started with Holux 
+	- Subscribe and find super attractive price quotes <br/> from us, Find your residence soon
+	- Get Started
+
+# Footer 
+	- Home
+	- Our vision is to make all people the best place to live for them.
+	- About | Company | Support | Follow Us
+	- About Us | Features | News & Blog
+	- How We Work? | Capital | Security
+	- FAQs | Support center | Contact Us
